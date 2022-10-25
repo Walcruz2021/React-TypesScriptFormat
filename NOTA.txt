@@ -1,0 +1,5 @@
+npx create-react-app react-tasks-app --template typescript (comando para iniciar proyecto configurado
+de typescript con react)
+
+tsconfig.json (es donde se configura typescript)
+react-tools es o que se debe instalar para visualizar los estados en inspeccionar
